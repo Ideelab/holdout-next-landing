@@ -5,7 +5,7 @@ import { Section } from '@/layout/Section';
 const Sponsors = () => (
   <Section
     title="Sponsors"
-    description="Our sponsors' exceptional support has made this project possible."
+    description="Our sponsors' support has made this project possible."
   >
     <table className="mx-auto border-collapse">
       <tbody>
