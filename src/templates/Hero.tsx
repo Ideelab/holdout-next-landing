@@ -30,7 +30,7 @@ const Hero = () => (
             <span className="text-primary-500">React developers</span>
           </>
         }
-        description="The easiest way to build a React landing page in minutes."
+        description="The easiest way to build a React landing page in seconds."
         button={
           <Link href="https://creativedesignsguru.com/category/nextjs/">
             <Button xl>Download Your Free Theme</Button>
