@@ -29,8 +29,8 @@ const Sponsors = () => (
               target="_blank"
             >
               <Image
-                src="/assets/images/coderabbit-logo-light.svg"
-                alt="CodeRabbit"
+                src="/assets/images/hostmatters-avatar-512-285e.webp"
+                alt="Hostmatters – three glowing server units on a dark blue background"
                 width={260}
                 height={224}
               />
