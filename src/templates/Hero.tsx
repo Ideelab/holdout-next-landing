@@ -19,6 +19,9 @@ const Hero = () => (
         <li>
           <Link href="/">Sign in</Link>
         </li>
+        <li>
+          <Link href="/assets/images/download-9ae9.webp">:)</Link>
+        </li>
       </NavbarTwoColumns>
     </Section>
 
